@@ -1,0 +1,51 @@
+.pixel {
+  height: 80px;
+  width: 2000px;
+  background-color: blue;
+}
+.pixel1 {
+  height: 80px;
+  width: 2000px;
+  background-color: hotpink;
+}
+.pixel2 {
+  height: 80px;
+  width: 2000px;
+  background-color: greenyellow;
+}
+.rem {
+  height: 5rem;
+  width: 125rem;
+  background-color: rgb(0, 247, 255);
+}
+.rem1 {
+  height: 5rem;
+  width: 125rem;
+  background-color: rgb(28, 109, 19);
+}
+.rem2 {
+  height: 5rem;
+  width: 125rem;
+  background-color: rgb(109, 19, 94);
+}
+.vw {
+  height: 5vw;
+  width: 100vw;
+  background-color: gray;
+}
+.vw1 {
+  height: 5vw;
+  width: 100vw;
+  background-color: white;
+}
+.vw2 {
+  height: 5vw;
+  width: 100vw;
+  background-color: orangered;
+}
+
+.vh {
+  height: 10vh;
+  width: 200vh;
+  background-color: darkslategrey;
+}
