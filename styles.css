@@ -49,3 +49,95 @@
   width: 200vh;
   background-color: darkslategrey;
 }
+
+.new {
+  background-color: coral;
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new1 {
+  background-color: rgb(15, 14, 13);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new2 {
+  background-color: rgb(80, 141, 255);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new3 {
+  background-color: rgba(162, 8, 167, 0.675);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new4 {
+  background-color: rgb(168, 81, 50);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new5 {
+  background-color: rgba(38, 134, 138, 0.313);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new6 {
+  background-color: rgba(69, 13, 56, 0.313);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new7 {
+  background-color: rgba(50, 220, 225, 0.676);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new8 {
+  background-color: rgba(219, 80, 30, 0.802);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new9 {
+  background-color: rgba(194, 221, 18, 0.729);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new10 {
+  background-color: rgba(192, 225, 226, 0.313);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new11 {
+  background-color: rgba(69, 18, 255, 0.313);
+  width: 15vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
+.new12 {
+  background-color: rgba(74, 73, 149, 0.313);
+  width: 13vh;
+  height: 8vh;
+  display: inline-block;
+  float: left;
+}
