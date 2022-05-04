@@ -1,15 +1,15 @@
 .pixel {
-  height: 80px;
+  height: 90px;
   width: 2000px;
   background-color: blue;
 }
 .pixel1 {
-  height: 80px;
+  height: 90px;
   width: 2000px;
   background-color: hotpink;
 }
 .pixel2 {
-  height: 80px;
+  height: 90px;
   width: 2000px;
   background-color: greenyellow;
 }
@@ -41,7 +41,7 @@
 .vw2 {
   height: 5vw;
   width: 100vw;
-  background-color: orangered;
+  background-color: #ff4500;
 }
 
 .vh {
